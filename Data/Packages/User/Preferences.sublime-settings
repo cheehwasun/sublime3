@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme",
+	"theme_bar_logo_materialized": true,
+	"theme_bar_margin_top_lg": true,
+	"theme_bar_margin_top_md": true,
+	"theme_bar_margin_top_sm": true,
+	"theme_bar_shadow_hidden": true,
+	"theme_grid_border_size_lg": true,
+	"theme_grid_border_size_sm": true,
+	"theme_grid_border_size_xl": true,
+	"theme_grid_border_size_xs": true,
+	"update_check": false,
+	"word_wrap": "true"
+}

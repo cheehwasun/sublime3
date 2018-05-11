@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Anaconda",
+		"AutoPEP8",
+		"Autoprefixer",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Chrome Color Scheme",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"JavaScript Completions",
+		"Layout",
+		"Package Control",
+		"PackageResourceViewer",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Tagify",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"YUI Compressor"
+	]
+}

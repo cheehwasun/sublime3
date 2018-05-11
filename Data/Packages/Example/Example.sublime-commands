@@ -1,0 +1,6 @@
+[
+    { "command": "show_status", "caption": "Example: Show Status" },
+    { "command": "show_log", "caption": "Example: Log" },
+    { "command": "auto_push_git", "caption": "Example: Push" },
+]
+

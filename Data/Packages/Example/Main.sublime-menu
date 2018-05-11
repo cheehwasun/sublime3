@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Tools",
+        "id": "tools",
+        "children":
+        [
+            {"id":"example","caption": "我的Git测试","command": "show_log"}
+        ]
+    }
+]
